@@ -1,0 +1,3 @@
+## 2. Your IDE setup / plugins
+
+...
