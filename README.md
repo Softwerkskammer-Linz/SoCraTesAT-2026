@@ -27,7 +27,7 @@ Sessions that already have their results in this repository are linked.
 | 17:00 | 08-02 | Cracking Compliance CRA | Christian |
 | 17:00 | 08-03 | Git for curious Dev | Daniel |
 | 17:00 | 08-07 | Mostly useful Pi Coding Agent | Chris |
-| 17:00 | 08-08 | Low Level Java | Abl |
+| 17:00 | 08-08 | [Low Level Java](low-level-java) | Abl |
 | 18:00 | 15-04 | How will AI change working | Frank & Michi |
 | 18:00 | 15-05 | [TDD inside the Agent Loop](tdd-inside-the-agent-loop-theater-or-actual-value) | Dario |
 | 18:00 | 08-02 | Personal AI Assitant | Pierluigi |
@@ -61,7 +61,7 @@ Sessions that already have their results in this repository are linked.
 | 13:00 | 15-06 | Strenght and Weaknesses of DDD | Michi |
 | 13:00 | 08-02 | Renovate Bot | Robert |
 | 13:00 | 08-07 | [Software Development Skill in the age of AI](software-development-skill-in-the-age-of-ai) | Pierluigi |
-| 13:00 | 08-08 | Gradle | Abl |
+| 13:00 | 08-08 | [Gradle](gradle) | Abl |
 | 14:00 | 15-04 | Conferences Speaking and anyhting between | Christian |
 | 14:00 | 15-06 | Architectual Snapshot Testing | Andreas |
 | 14:00 | 08-02 | [Learning in the age of AI](learning-in-the-age-of-ai) | Patrick |
