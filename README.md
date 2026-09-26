@@ -4,5 +4,7 @@
 * [TDD inside the agent loop: theater or actual value?](tdd-inside-the-agent-loop-theater-or-actual-value)
 * [Hiring in the age of agents](hiring-in-the-age-of-agents)
 * [Creating Audiovisual Experiences using Agents](creating-audiovisual-experiences-using-agents)
+* [Low Level Java](low-level-java)
 
 ## Day Two: 26th Sept. 2026
+* [Gradle AMA](gradle)
