@@ -51,7 +51,7 @@ Sessions that already have their results in this repository are linked.
 | 10:00 | 15-04 | Marketplace / Opening the Space | |
 | 11:00 | 15-05 | How to keep your skills sharp | Lucas |
 | 11:00 | 08-03 | Introduction parametrics CAD | Peter |
-| 11:00 | 08-07 | Agents forget, Repos remember | Bernhard |
+| 11:00 | 08-07 | [Agents forget, Repos remember](agents-forget-repos-remember) | Bernhard |
 | 11:00 | 08-08 | [How to modularise](how-to-modularize-a-monolith) | Patrick |
 | 12:00 | 15-05 | When Ai reviewers fight | Tim |
 | 12:00 | 15-06 | Data mesh | Ia |
