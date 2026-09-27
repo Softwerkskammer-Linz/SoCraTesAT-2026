@@ -6,3 +6,4 @@
 * [Creating Audiovisual Experiences using Agents](creating-audiovisual-experiences-using-agents)
 
 ## Day Two: 26th Sept. 2026
+* [Agents Forget. Repos Remember.](agents-forget-repos-remember/README.md)
