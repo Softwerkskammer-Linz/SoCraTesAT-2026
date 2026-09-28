@@ -7,3 +7,4 @@
 
 ## Day Two: 26th Sept. 2026
 * [Zen and the art of... Common Lisp!](zen-and-the-art-of-common-lisp)
+* [Software Development Skill in the age of AI](software-development-skill-in-the-age-of-ai)
