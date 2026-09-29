@@ -54,7 +54,7 @@ Sessions that already have their results in this repository are linked.
 | 11:00 | 08-07 | [Agents forget, Repos remember](agents-forget-repos-remember) | Bernhard |
 | 11:00 | 08-08 | [How to modularise](how-to-modularize-a-monolith) | Patrick |
 | 12:00 | 15-05 | When Ai reviewers fight | Tim |
-| 12:00 | 15-06 | Data mesh | Ia |
+| 12:00 | 15-06 | [Data mesh](lets-talk-data-mesh) | Ia |
 | 12:00 | 08-02 | [Ai Coding Kata](coding_fun_ai_as_mentor) | David |
 | 12:00 | 08-03 | [Zen and the art of common Lisp](zen-and-the-art-of-common-lisp) | Dario |
 | 13:00 | 15-05 | How to review Pull Requests from AI | |
