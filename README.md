@@ -18,7 +18,7 @@ Sessions that already have their results in this repository are linked.
 | 15:00 | 08-03 | Whats your experience self host AI | Frank |
 | 15:00 | 08-08 | How to avoid AI in modern Software Development | Andreas |
 | 16:00 | 15-05 | Software organism | Simon |
-| 16:00 | 15-06 | IDE my best friend | Adam |
+| 16:00 | 15-06 | [IDE my best friend](ide-best-friend) | Adam |
 | 16:00 | 08-02 | [Contract Testing PACT](contract-testing) | David T. |
 | 16:00 | 08-03 | Gitops with Docker compose | Peter |
 | 16:00 | 08-07 | Level up Claude Code | Hannes |
@@ -36,7 +36,7 @@ Sessions that already have their results in this repository are linked.
 | 18:00 | 08-08 | [Creating Audio Visual experiences using Agents](creating-audiovisual-experiences-using-agents) | Bernd |
 | 18:00 | somewhere else | Pipeline card game | David T. |
 | 19:00 | 15-05 | Pub quiz Developer Edition | Christian |
-| 19:00 | 08-07 | Vibe Coding for Campsite | Niklas |
+| 19:00 | 08-07 | [Vibe Coding for Campsite](vibe_code@campsite) | Niklas |
 | 19:00 | 08-08 | Experience Exchange AI Coding | Hannes |
 | 20:00 | 15-04 | Evening News | |
 | 20:00 | somewhere else | Whiskey Tasting | Yolgie |
@@ -65,7 +65,7 @@ Sessions that already have their results in this repository are linked.
 | 14:00 | 15-04 | Conferences Speaking and anyhting between | Christian |
 | 14:00 | 15-06 | Architectual Snapshot Testing | Andreas |
 | 14:00 | 08-02 | [Learning in the age of AI](learning-in-the-age-of-ai) | Patrick |
-| 14:00 | 08-03 | Make a nice Coding Dojo | Adam, Paul, Gregor |
+| 14:00 | 08-03 | [Make a nice Coding Dojo](coderetreat_in_age_ai) | Adam, Paul, Gregor |
 | 14:00 | 08-07 | Performance Metrics for engineer teams | Daniel |
 | 14:00 | 08-08 | SAP Accounting | Norbert |
 | 14:00 | in front of the Wissensturm | Walk and talk | Frank |
