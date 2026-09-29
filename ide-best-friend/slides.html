@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>IDE my best friend</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/reset.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/reveal.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/theme/night.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5/plugin/highlight/monokai.css">
+  <style>
+    .reveal h1, .reveal h2 { text-transform: none; }
+    .reveal kbd {
+      font-family: var(--r-code-font);
+      font-size: 0.8em;
+      padding: 0.1em 0.4em;
+      border: 1px solid #888;
+      border-radius: 4px;
+      background: #222;
+    }
+    .reveal .small { font-size: 0.6em; opacity: 0.8; }
+  </style>
+</head>
+<body>
+<div class="reveal">
+  <div class="slides">
+    <!--
+      Slide content lives in slides/*.md, one file per section.
+      "---" = next slide, "--" = sub-slide, "Note:" = speaker notes (press S).
+      Needs a local web server (browsers block loading .md files from file://):
+        python3 -m http.server 8000   ->   http://localhost:8000/slides.html
+    -->
+    <section data-markdown="slides/00-intro.md" data-separator="^\n---\n$" data-separator-vertical="^\n--\n$" data-separator-notes="^Note:"></section>
+    <section data-markdown="slides/01-demo.md" data-separator="^\n---\n$" data-separator-vertical="^\n--\n$" data-separator-notes="^Note:"></section>
+    <section data-markdown="slides/02-your-setup.md" data-separator="^\n---\n$" data-separator-vertical="^\n--\n$" data-separator-notes="^Note:"></section>
+    <section data-markdown="slides/03-others.md" data-separator="^\n---\n$" data-separator-vertical="^\n--\n$" data-separator-notes="^Note:"></section>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/reveal.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@5/plugin/markdown/markdown.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@5/plugin/highlight/highlight.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@5/plugin/notes/notes.js"></script>
+<script>
+  Reveal.initialize({
+    hash: true,
+    slideNumber: 'c/t',
+    plugins: [RevealMarkdown, RevealHighlight, RevealNotes]
+  });
+</script>
+</body>
+</html>
