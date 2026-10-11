@@ -14,7 +14,7 @@ Sessions that already have their results in this repository are linked.
 | --- | --- | --- | --- |
 | 13:45 | 15-04 | Marketplace / Opening the Space | |
 | 15:00 | 15-05 | Never say refactoring is impossible | Andi |
-| 15:00 | 15-06 | jq and friends | Daniel |
+| 15:00 | 15-06 | [jq and friends](jq-and-friends) | Daniel |
 | 15:00 | 08-03 | Whats your experience self host AI | Frank |
 | 15:00 | 08-08 | How to avoid AI in modern Software Development | Andreas |
 | 16:00 | 15-05 | Software organism | Simon |
