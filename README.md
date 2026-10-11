@@ -25,7 +25,7 @@ Sessions that already have their results in this repository are linked.
 | 16:00 | 08-08 | [Hiring in the age of Agents](hiring-in-the-age-of-agents) | Bernd |
 | 17:00 | 15-05 | [AI writes code / How to protect knowledge](ai-writes-code-how-to-protect) | Patrick |
 | 17:00 | 08-02 | Cracking Compliance CRA | Christian |
-| 17:00 | 08-03 | Git for curious Dev | Daniel |
+| 17:00 | 08-03 | [Git for curious Dev](git-for-the-curious-dev) | Daniel |
 | 17:00 | 08-07 | Mostly useful Pi Coding Agent | Chris |
 | 17:00 | 08-08 | [Low Level Java](low-level-java) | Abl |
 | 18:00 | 15-04 | How will AI change working | Frank & Michi |
