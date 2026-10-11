@@ -1,0 +1,8 @@
+Git for the curious developer
+=============================
+
+Find out how Git stores a repository's history internally and what happens
+when you create commits and branches.
+
+* Slides: <https://fhlug.at/~dkf/git-deep-dive.deck/>
+* Video recording (2019): <https://fhlug.at/~dkf/git-deep-dive.720p.x265.mkv>
